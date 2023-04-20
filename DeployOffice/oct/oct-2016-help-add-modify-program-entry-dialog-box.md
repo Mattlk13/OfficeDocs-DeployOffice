@@ -2,15 +2,13 @@
 title: "Office Customization Tool (OCT) 2016 Help Add/Modify Program Entry dialog box"
 ms.author: danbrown
 author: DHB-MSFT
-manager: laurawi
-ms.date: 8/28/2015
+manager: dougeby
+ms.date: 03/01/2023
 audience: ITPro
-ms.topic: get-started-article
-ms.prod: office-perpetual-itpro
-localization_priority: Normal
-ms.collection: Ent_O365
-ms.custom: Ent_Office_VL
-ms.assetid: 7a38a43f-e758-43d1-839f-9c7e1dcf785d
+ms.topic: article
+ms.service: office-perpetual-itpro
+ms.localizationpriority: medium
+ms.collection: Tier2
 ROBOTS: NOINDEX, NOFOLLOW
 ---
 
@@ -42,12 +40,12 @@ On the **Add installations and run programs** page, if you choose **Add**, the *
 
 - In the **Arguments** box, type a string of command-line options; for example, /q /path c:\temp.
     
-- Select **Run this program after the Office product has been installed** if you want the program listed in the **Target** box to run after the Office installation is complete. This is the recommended option. If the program does not terminate normally, or if it restarts the computer, the Office installation is not affected. However, programs further down the list do not run. 
+- Select **Run this program after the Office product has been installed** if you want the program listed in the **Target** box to run after the Office installation is complete. This is the recommended option. If the program doesn't terminate normally, or if it restarts the computer, the Office installation isn't affected. However, programs further down the list don't run. 
     
-- Select **Run this program before the Office product has been installed** if you want the program listed in the **Target** box to run before the Office installation starts. If the program does not terminate normally, or if it restarts the computer, Office is not installed, and programs further down the list do not run. 
+- Select **Run this program before the Office product has been installed** if you want the program listed in the **Target** box to run before the Office installation starts. If the program doesn't terminate normally, or if it restarts the computer, Office isn't installed, and programs further down the list don't run. 
     
 - Choose **OK**.
     
-## Related topics
+## Related articles
 [Office Customization Tool (OCT) 2016 Help: Add installations and run programs](oct-2016-help-add-installations-and-run-programs.md)
 

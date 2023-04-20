@@ -2,23 +2,22 @@
 title: "XML file name extension reference for Office"
 ms.author: danbrown
 author: DHB-MSFT
-manager: laurawi
+manager: dougeby
 audience: ITPro
 ms.topic: reference
-ms.service: o365-proplus-itpro
-localization_priority: Normal
-ms.collection: Ent_O365
-ms.custom: Ent_Office_Compat
+ms.service: office-perpetual-itpro
+ms.localizationpriority: medium
+ms.collection: Tier2
 description: "Learn about the XML file formats and their extensions that are used by Word, Excel, PowerPoint, and Visio."
+ms.date: 03/01/2023
 ---
 
 # XML file name extension reference for Office
 
-***Applies to:*** *Office 365 ProPlus, Office 2019, and Office 2016*
+***Applies to:*** *Office 2019, Office 2016*
 
 XML file formats and their extensions are listed in the following tables for Word, Excel, PowerPoint, and Visio.
   
-
 ## XML file types for Word
 
 The following table describes the file type, extension, and description for Word XML file formats.

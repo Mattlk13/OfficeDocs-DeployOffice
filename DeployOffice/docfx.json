@@ -12,7 +12,8 @@
           "README.md",
           "LICENSE",
           "LICENSE-CODE",
-          "ThirdPartyNotices"
+          "ThirdPartyNotices",
+          "**/common/**"
         ]
       }
     ],
@@ -22,11 +23,13 @@
           "**/*.png",
           "**/*.jpg",
           "**/*.gif",
-          "**/*.svg"
+          "**/*.svg",
+          "**/*.pdf"
         ],
         "exclude": [
           "**/obj/**",
-          "**/includes/**"
+          "**/includes/**",
+          "**/common/**"
         ]
       }
     ],
@@ -35,14 +38,46 @@
     "globalMetadata": {
       "breadcrumb_path": "/deployoffice/breadcrumb/toc.json",
       "extendBreadcrumb": "true",
+      "uhfHeaderId": "MSDocsHeader-M365-IT",
       "searchScope": [
         "Deploy Office"
       ],
       "feedback_system": "GitHub",
       "feedback_github_repo": "MicrosoftDocs/OfficeDocs-DeployOffice",
-      "feedback_product_url": "https://docs.microsoft.com/en-us/deployoffice/feedback"
+      "feedback_product_url": "https://techcommunity.microsoft.com",
+      "titleSuffix": "Deploy Office",
+      "contributors_to_exclude": [
+        "rjagiewich",
+        "traya1",
+        "rmca14",
+        "claydetels19",
+        "jborsecnik",
+        "tiburd",
+	"AngelaMotherofDragons",
+	"dstrome",
+        "v-dihans",
+        "garycentric",
+	"beccarobins"
+      ]
     },
-    "fileMetadata": {},
+    "fileMetadata": {
+      "recommendations": {
+        "compat/**/*.md": false,
+        "fieldnotes/**/*.md": false,
+        "oct/**/*.md": false,
+        "office2016/**/*.md": false,
+        "other/**/*.md": false,
+        "privacy/**/*.md": false,
+        "security/**/*.md": false,
+        "vlactivation/**/*.md": false
+      },
+      "feedback_product_url": {
+        "insider/**/*.md": "https://techcommunity.microsoft.com/t5/microsoft-365-insider/bd-p/Microsoft365Insider"
+      },
+      "titleSuffix": {
+        "insider/**/*.md": "Microsoft 365 Insider"
+      }
+    },
     "template": [],
     "dest": "OfficeDocs-OfficeProPlus",
     "markdownEngineName": "markdig"

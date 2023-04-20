@@ -2,15 +2,13 @@
 title: "Office Customization Tool (OCT) 2016 Help Licensing and user interface"
 ms.author: danbrown
 author: DHB-MSFT
-manager: laurawi
-ms.date: 8/30/2015
+manager: dougeby
+ms.date: 03/01/2023
 audience: ITPro
-ms.topic: get-started-article
-ms.prod: office-perpetual-itpro
-localization_priority: Normal
-ms.collection: Ent_O365
-ms.custom: Ent_Office_VL
-ms.assetid: 507f9bae-bb3b-4b9c-8747-f7d227b8e2e2
+ms.topic: article
+ms.service: office-perpetual-itpro
+ms.localizationpriority: medium
+ms.collection: Tier2
 ROBOTS: NOINDEX, NOFOLLOW
 ---
 

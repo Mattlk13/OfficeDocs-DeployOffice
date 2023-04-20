@@ -2,20 +2,23 @@
 title: "Data collected by the agent for Office Telemetry Dashboard"
 ms.author: danbrown
 author: DHB-MSFT
-manager: laurawi
+manager: dougeby
 audience: ITPro
 ms.topic: reference
-ms.service: o365-proplus-itpro
-localization_priority: Normal
-ms.collection: Ent_O365
-ms.custom: Ent_Office_Compat
+ms.service: office-perpetual-itpro
+ms.localizationpriority: medium
+ms.collection: Tier2
 description: "Learn about the data collected by the agent for Office Telemetry Dashboard."
+ms.date: 03/01/2023
 ---
 
 # Data collected by the agent for Office Telemetry Dashboard
 
-***Applies to:*** *Office 365 ProPlus, Office 2019, and Office 2016*
+***Applies to:*** *Office 2019, Office 2016*
 
+> [!IMPORTANT]
+> - Office Telemetry Dashboard is no longer supported in Microsoft 365 Apps for enterprise (as of Version 2208), and is removed in Version 2301 (and later).
+> - For more information, see [Removal of Office Telemetry Dashboard from Microsoft 365 Apps for enterprise](telemetry-dashboard-removal.md).
   
 The Office Telemetry Dashboard uses an agent to collect several types of inventory, usage, and health data for installations of Office, such as the following:
   
@@ -37,8 +40,8 @@ The agent doesn't collect any of the following kinds of information:
 > [!IMPORTANT]
 > - Office Telemetry Dashboard is an on-premises tool that collects inventory, usage, and health data about the Office documents and solutions, such as add-ins, used in your organization. The data is primarily designed to help your organization with application compatibility testing.
 > - Data collected for Office Telemetry Dashboard is stored in a SQL Server database controlled by your organization and the data collected is ***not*** sent to Microsoft. For more information, see [Data collected by the agent for Office Telemetry Dashboard](data-that-the-telemetry-agent-collects-in-office.md).
-> - Data collected for Office Telemetry Dashboard is different than Office diagnostic data, which can be sent to Microsoft. For more information about Office diagnostic data, see [Overview of privacy controls for Office 365 ProPlus](../privacy/overview-privacy-controls.md).
-> - Settings used to manage Office Telemetry Dashboard have no impact on Office diagnostic data and vice versa. For more information about managing Office diagnostic data, see [Use policy settings to manage privacy controls for Office 365 ProPlus](../privacy/manage-privacy-controls.md).
+> - Data collected for Office Telemetry Dashboard is different than Office diagnostic data, which can be sent to Microsoft. For more information about Office diagnostic data, see [Overview of privacy controls for Microsoft 365 Apps](../privacy/overview-privacy-controls.md).
+> - Settings used to manage Office Telemetry Dashboard have no impact on Office diagnostic data and vice versa. For more information about managing Office diagnostic data, see [Use policy settings to manage privacy controls for Microsoft 365 Apps](../privacy/manage-privacy-controls.md).
 
 
 ## Office applications from which the agent collects data
@@ -54,6 +57,9 @@ The agent collects inventory-related data, hardware and software data, and user 
 - Publisher
 - Visio
 - Word
+
+> [!NOTE]
+> Office 2003, Office 2007, Office 2010, and Office 2013 are no longer supported.
     
 For Office 2019, Office 2016, and Office 2013 only, the agent collects data for the following applications:
   

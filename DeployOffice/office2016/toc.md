@@ -1,10 +1,9 @@
 
 # Deployment guide for Office 2016
 
-## Get started
-### [What's new for admins](what-s-new-for-admins-in-office-2016.md)
-### [Changes in Office 2016](changes-in-office-2016-for-windows-desktop.md)
-### [Office Training Center](https://support.office.com/office-training-center)
+## [What's new for admins](whats-new-admins.md)
+## [Changes in Office 2016](changes-windows-desktop.md)
+## [Office Help & Training](https://support.microsoft.com/office)
 
 ## Application compatibility
 ### [Assess Office compatibility](../compat/assess-office-compatibility.md?toc=/deployoffice/office2016/toc.json)
@@ -14,7 +13,7 @@
 #### [Deploy](../compat/deploy-telemetry-dashboard.md?toc=/deployoffice/office2016/toc.json)
 #### [Update components](../compat/update-office-telemetry-components-for-office-2016.md?toc=/deployoffice/office2016/toc.json)
 #### [Monitor Office compatibility and deployments](../compat/monitor-office-compatibility-and-deployments-by-using-telemetry-dashboard.md?toc=/deployoffice/office2016/toc.json)
-#### [Manage add-ins]../compat/(manage-add-ins-by-using-telemetry-dashboard-in-office.md?toc=/deployoffice/office2016/toc.json)
+#### [Manage add-ins](../compat/manage-add-ins-by-using-telemetry-dashboard-in-office.md?toc=/deployoffice/office2016/toc.json)
 #### [Manage the privacy of data collected](../compat/manage-the-privacy-of-data-monitored-by-telemetry-in-office.md?toc=/deployoffice/office2016/toc.json)
 #### [Custom reporting and database schema](../compat/custom-reporting-and-database-schema-reference-for-telemetry-dashboard.md?toc=/deployoffice/office2016/toc.json)
 #### [Data that the agent collects](../compat/data-that-the-telemetry-agent-collects-in-office.md?toc=/deployoffice/office2016/toc.json)
@@ -37,9 +36,9 @@
 ### [Troubleshoot volume activation](../vlactivation/troubleshoot-volume-activation-of-office.md?toc=/deployoffice/office2016/toc.json)
 
 ## Language deployment
-### [Plan for multilanguage deployment](plan-for-multilanguage-deployment-of-office-2016.md)
-### [Customize language setup and settings](customize-language-setup-and-settings-for-office-2016.md)
-### [Add or remove language packs after deployment](add-or-remove-language-packs-after-deployment-of-office-2016.md)
-### [Language versions and language interface packs](language-versions-and-language-interface-packs-in-office-2016.md)
-### [Companion proofing languages](companion-proofing-languages-for-office-2016.md)
-### [Language identifiers and OptionState Id values](language-identifiers-and-optionstate-id-values-in-office-2016.md)
+### [Plan for multilanguage deployment](language/plan-multilanguage-deployment.md)
+### [Customize language setup and settings](language/customize-language-setup-settings.md)
+### [Add or remove language packs after deployment](language/add-remove-language-packs.md)
+### [Language versions and language interface packs](language/language-versions-language-interface-packs.md)
+### [Companion proofing languages](language/companion-proofing-languages.md)
+### [Language identifiers and OptionState Id values](language/language-identifiers-optionstate-id-values.md)

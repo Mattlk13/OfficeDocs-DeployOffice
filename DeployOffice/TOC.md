@@ -1,88 +1,111 @@
- 
-# Get started
-## [Deployment guide](deployment-guide-for-office-365-proplus.md)
-## [What's new](whats-new-office-it-pros.md)
-## [About Office 365 ProPlus](about-office-365-proplus-in-the-enterprise.md)
-## [Microsoft FastTrack for Office](https://fasttrack.microsoft.com/office)
+# Deployment guide for Microsoft 365 Apps
 
-# Prepare
-## [Assess your environment and requirements](assess-office-365-proplus.md)
-## [Plan your enterprise deployment of Office 365 ProPlus](plan-office-365-proplus.md)
-## [Use Readiness Toolkit to assess application compatibility](use-the-readiness-toolkit-to-assess-application-compatibility-for-office-365-pro.md)
+## [Deployment guide](deployment-guide-microsoft-365-apps.md)
+## [Microsoft FastTrack](https://www.microsoft.com/fasttrack)
 
-# Upgrade
-## [Deploy from the cloud](deploy-office-365-proplus-from-the-cloud.md)
-## [Deploy from a local source](deploy-office-365-proplus-from-a-local-source.md)
-## [Deploy with Configuration Manager (Current Branch)](deploy-office-365-proplus-with-system-center-configuration-manager.md)
+## Get started
+### [What's new](whats-new.md)
+### [About Microsoft 365 Apps](about-microsoft-365-apps.md)
+### [Microsoft 365 Apps admin center](admincenter/overview.md)
+### [Accessibility guide for Microsoft 365 Apps](accessibility-guide.md)
 
-# Manage
-## [Overview of update channels](overview-of-update-channels-for-office-365-proplus.md)
-## [Manage updates with Configuration Manager](manage-updates-to-office-365-proplus-with-system-center-configuration-manager.md)
-## [Change management for Office 365 clients](change-management-for-office-365-clients.md)
-## [Overview of the update process](overview-of-the-update-process-for-office-365-proplus.md)
-## [Update history](https://docs.microsoft.com/officeupdates/update-history-office365-proplus-by-date)
-## [Release notes](https://docs.microsoft.com/officeupdates/release-notes-office365-proplus)
+## Prepare
+### [Assess your environment and requirements](assess-microsoft-365-apps.md)
+### [Plan your enterprise deployment](plan-microsoft-365-apps.md)
+### [Use Readiness Toolkit to assess application compatibility](readiness-toolkit-application-compatibility-microsoft-365-apps.md)
 
-# Privacy
-## [Overview of privacy controls](privacy/overview-privacy-controls.md?toc=/deployoffice/toc.json)
-## [Manage privacy controls with policy settings](privacy/manage-privacy-controls.md?toc=/deployoffice/toc.json)
-## [Manage privacy controls with preferences (Mac)](privacy/mac-privacy-preferences.md?toc=/deployoffice/toc.json)
+## Deploy
+### [Deploy from the cloud](deploy-microsoft-365-apps-cloud.md)
+### [Deploy from a local source](deploy-microsoft-365-apps-local-source.md)
+### [Deploy with Configuration Manager (current branch)](deploy-microsoft-365-apps-configuration-manager.md)
 
-## Diagnostic data
-### [Required diagnostic data](privacy/required-diagnostic-data.md?toc=/deployoffice/toc.json)
-### [Optional diagnostic data](privacy/optional-diagnostic-data.md?toc=/deployoffice/toc.json)
-### [Using the Diagnostic Data Viewer](https://support.office.com/article/cf761ce9-d805-4c60-a339-4e07f3182855)
+## Manage
+### [Overview of update channels](updates/overview-update-channels.md)
+### [Choose how to deliver updates](fieldnotes/choose-how-to-deliver-updates.md)
+### [Manage updates with Configuration Manager](updates/manage-microsoft-365-apps-updates-configuration-manager.md)
+### [Change the update channel](updates/change-update-channels.md)
+### [Delivery Optimization](delivery-optimization.md)
+### [Update history](/officeupdates/update-history-microsoft365-apps-by-date)
+### [Release notes](/officeupdates/release-notes-microsoft365-apps)
 
-## Connected experiences
-### [Connected experiences](privacy/connected-experiences.md?toc=/deployoffice/toc.json)
-### [Optional connected experiences](privacy/optional-connected-experiences.md?toc=/deployoffice/toc.json)
-### [Required service data](privacy/required-service-data.md?toc=/deployoffice/toc.json)
+## Security
+### [Internet macros blocked by default](security/internet-macros-blocked.md)
+### [Security baseline](security/security-baseline.md)
 
-## [Essential services](privacy/essential-services.md?toc=/deployoffice/toc.json)
+## Privacy
+### [Overview of privacy controls](privacy/overview-privacy-controls.md?toc=/deployoffice/toc.json)
+### [Privacy controls available for Office products](privacy/products-versions-privacy-controls.md?toc=/deployoffice/toc.json)
 
-# Reference
-## [Overview of reference articles](reference-articles-for-deploying-office-365-proplus.md)
-## [Overview of the Office Customization Tool](overview-of-the-office-customization-tool-for-click-to-run.md)
-## [Overview of the Office Deployment Tool](overview-of-the-office-2016-deployment-tool.md)
-## [Configuration options for the Office Deployment Tool](configuration-options-for-the-office-2016-deployment-tool.md)
-## [Deploying languages](overview-of-deploying-languages-in-office-365-proplus.md)
-## [Deploy Office 365 ProPlus by using Remote Desktop Services](deploy-office-365-proplus-by-using-remote-desktop-services.md)
-## [Deploy Office 365 ProPlus as part of an operating system image](deploy-office-365-proplus-as-part-of-an-operating-system-image.md)
-## [Overview of shared computer activation for Office 365 ProPlus](overview-of-shared-computer-activation-for-office-365-proplus.md)
-## [Overview of licensing and activation in Office 365 ProPlus](overview-of-licensing-and-activation-in-office-365-proplus.md)
-## [Remove existing MSI versions when upgrading](upgrade-from-msi-version.md)
-## [Upgrade from Office 2007](office-2007-end-support-roadmap.md)
-## [Upgrade from Office 2010](office-2010-end-support-roadmap.md)
+### Manage privacy controls
+#### [Windows policy settings](privacy/manage-privacy-controls.md?toc=/deployoffice/toc.json)
+#### [Mac preferences](privacy/mac-privacy-preferences.md?toc=/deployoffice/toc.json)
+#### [iOS preferences](privacy/ios-privacy-preferences.md?toc=/deployoffice/toc.json)
+#### [Android policy settings](privacy/android-privacy-controls.md?toc=/deployoffice/toc.json)
+#### [Office for the web policy settings](privacy/office-web-privacy-controls.md?toc=/deployoffice/toc.json)
 
-# Project, Visio, Teams, and OneNote
-## [Deploy Project](deployment-guide-for-project.md)
-## [Deploy Visio](deployment-guide-for-visio.md)
-## [Deploy Teams](teams-install.md)
-## [Deploy OneNote](deployment-guide-onenote.md)
-## [Install volume licensed versions by using the Office Deployment Tool](use-the-office-deployment-tool-to-install-volume-licensed-editions-of-visio-2016.md)
-## [Install different versions of Office, Project, and Visio on the same computer](install-different-office-visio-and-project-versions-on-the-same-computer.md)
+### Diagnostic data
+#### [Required diagnostic data](privacy/required-diagnostic-data.md?toc=/deployoffice/toc.json)
+#### [Optional diagnostic data](privacy/optional-diagnostic-data.md?toc=/deployoffice/toc.json)
+#### [Using the Diagnostic Data Viewer](https://support.microsoft.com/office/cf761ce9-d805-4c60-a339-4e07f3182855)
 
-# Office for Mac 
-## [Deployment guide](mac/deployment-guide-for-office-for-mac.md?toc=/deployoffice/toc.json)
-## [What's new for admins](mac/what-s-new-for-admins-in-office-for-mac.md?toc=/deployoffice/toc.json)
-## [Deployment options](mac/deployment-options-for-office-for-mac.md?toc=/deployoffice/toc.json)
-### [Deploy from the Mac App Store](mac/deploy-mac-app-store.md?toc=/deployoffice/toc.json)
-## [Deploy updates](mac/deploy-updates-for-office-for-mac.md?toc=/deployoffice/toc.json)
-### [Use msupdate](mac/update-office-for-mac-using-msupdate.md?toc=/deployoffice/toc.json)
-### [Set a deadline](mac/mau-deadline.md?toc=/deployoffice/toc.json)
-### [Update history](https://docs.microsoft.com/officeupdates/update-history-office-for-mac)
-### [Release notes](https://docs.microsoft.com/officeupdates/release-notes-office-for-mac)
-## [Deploy preferences](mac/deploy-preferences-for-office-for-mac.md?toc=/deployoffice/toc.json)
-### [Macro security](mac/set-preference-macro-security-office-for-mac.md?toc=/deployoffice/toc.json)
-### [Resume Assistant](mac/set-preference-resume-assistant-word.md?toc=/deployoffice/toc.json)
-### [Outlook preferences](mac/preferences-outlook.md?toc=/deployoffice/toc.json)
-### [Default decryption password (Excel)](mac/set-preference-default-password-excel.md?toc=/deployoffice/toc.json)
-## Activation
-### [Overview](mac/overview-of-activation-for-office-for-mac.md?toc=/deployoffice/toc.json)
-### [Volume License (VL) Serializer](mac/volume-license-serializer.md?toc=/deployoffice/toc.json)
-## [Network requests](https://docs.microsoft.com/office365/enterprise/network-requests-in-office-2016-for-mac)
-## [64-bit upgrade](mac/office-2016-for-mac-upgrade-to-64-bit.md?toc=/deployoffice/toc.json)
+### Connected experiences
+#### [Connected experiences](privacy/connected-experiences.md?toc=/deployoffice/toc.json)
+#### [Connected experiences and your content](privacy/connected-experiences-content.md?toc=/deployoffice/toc.json)
+#### [Optional connected experiences](privacy/optional-connected-experiences.md?toc=/deployoffice/toc.json)
+#### [Required service data](privacy/required-service-data.md?toc=/deployoffice/toc.json)
 
- 
+### [Essential services](privacy/essential-services.md?toc=/deployoffice/toc.json)
+### [In-product recommendations in Office](privacy/in-product-recommendations.md?toc=/deployoffice/toc.json)
 
+## Best practices from the field
+### [Choose how to install Microsoft 365 Apps](fieldnotes/install-options.md)
+### [Choose how to deliver updates](fieldnotes/choose-how-to-deliver-updates.md)
+### [Right-sizing your initial deployment](fieldnotes/right-sizing-initial-deployment.md)
+### [Build dynamic, lean, and universal packages](fieldnotes/build-dynamic-lean-universal-packages.md)
+### [Network guidance for deploying and servicing Microsoft 365 Apps](fieldnotes/network-guidance.md)
+### [Build dynamic collections for Microsoft 365 Apps with Configuration Manager](fieldnotes/build-dynamic-lean-configuration-manager.md)
+### [Switch to Monthly Enterprise Channel with Configuration Manager](fieldnotes/switch-to-monthly-enterprise-channel.md)
+### [Road map to modern management](fieldnotes/roadmap-to-modern-management.md)
+### [Adopting servicing profiles](fieldnotes/adopt-servicing-profiles.md)
+### [Microsoft 365 change guide](fieldnotes/microsoft-365-change-guide.md)
+### [Performance recommendations for Microsoft 365 Apps on Windows 10](fieldnotes/performance-recommendations.md)
 
+## Reference
+### [Overview of the Microsoft 365 Apps admin center](admincenter/overview.md)
+### [Overview of the Office Customization Tool](admincenter/overview-office-customization-tool.md)
+### [Overview of Cloud Policy](admincenter/overview-cloud-policy.md)
+### [Overview of the Office Deployment Tool](overview-office-deployment-tool.md)
+### [Configuration options for the Office Deployment Tool](office-deployment-tool-configuration-options.md)
+### [Deploying languages](overview-deploying-languages-microsoft-365-apps.md)
+### [Deploy by using Remote Desktop Services](deploy-microsoft-365-apps-remote-desktop-services.md)
+### [Deploy as part of an operating system image](deploy-microsoft-365-apps-operating-system-image.md)
+### [Overview of shared computer activation](overview-shared-computer-activation.md)
+### [Device-based licensing](device-based-licensing.md)
+### [Overview of licensing and activation](overview-licensing-activation-microsoft-365-apps.md)
+### [Overview of unattended automation](overview-unattended.md)
+### [Overview of extended offline access](overview-extended-offline-access.md)
+### [Overview of viewer mode](overview-viewer-mode.md)
+### [Change installation from 32-bit to 64-bit](change-bitness.md)
+### [App compatibility & readiness assessment tools](readiness-tools.md)
+### [Remove existing MSI versions when upgrading](upgrade-from-msi-version.md)
+
+## Project, Visio, Teams, and OneNote
+### [Deploy Project](deployment-guide-for-project.md)
+### [Deploy Visio](deployment-guide-for-visio.md)
+### [Deploy Teams](teams-install.md)
+### [Deploy OneNote](deployment-guide-onenote.md)
+### [Install volume licensed versions by using the Office Deployment Tool](use-the-office-deployment-tool-to-install-volume-licensed-editions-of-visio-2016.md)
+### [Install different versions of Office, Project, and Visio on the same computer](install-different-office-visio-and-project-versions-on-the-same-computer.md)
+
+## End of support
+### [End of support resources](endofsupport/resources.md)
+### [Connectivity to Microsoft 365 services](endofsupport/microsoft-365-services-connectivity.md)
+### [Windows Server and Microsoft 365 Apps](endofsupport/windows-server-support.md)
+### [Microsoft 365 Apps migration from Windows Server](endofsupport/windows-server-migration.md)
+### [Windows and Office support matrix (PDF)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2OqRI)
+
+## [Office for Mac](mac/deployment-guide-for-office-for-mac.md)
+
+## [Microsoft 365 Insider Program for Business](insider/index.yml)
+
+## [Videos](videos.md)
